@@ -1,4 +1,4 @@
-# Farmer-Market-Analysis (Interactive dashboard  creation using Power Bi)
+# Farmers-Market-Analysis (Interactive dashboard  creation using Power Bi)
 
 ## 🧺 Farmers Market Dashboard
 
