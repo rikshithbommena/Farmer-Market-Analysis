@@ -1,4 +1,4 @@
-# Farmer-Market-Analysis 
+# Farmer-Market-Analysis (Interactive dashboard  creation using Power Bi)
 
 ## 🧺 Farmers Market Dashboard
 
@@ -19,7 +19,7 @@ This Farmers Market Dashboard is built using Power BI to provide a comprehensive
 🔄 Interactive Filters: Slice data by Customer, Vendor, Date, and Product to focus on specific segments.
 
 📈 Top Customers: Lists the most active customers by quantity purchased.
-<Images href="https://github.com/rikshithbommena/Farmer-Market-Analysis/tree/main/Images">Images<a/>
+<a href="https://github.com/rikshithbommena/Farmer-Market-Analysis/tree/main/Images">Images<a/>
 
 ## 📁 Data Used
 -The dashboard was built using a dataset containing:
@@ -33,10 +33,10 @@ This Farmers Market Dashboard is built using Power BI to provide a comprehensive
 -Vendor and booth IDs
 
 -Timestamps for transactions
-<Dataset href ="https://github.com/rikshithbommena/Farmer-Market-Analysis/tree/main/datasets">DataSet</a>
+ <a href ="https://github.com/rikshithbommena/Farmer-Market-Analysis/tree/main/datasets">DataSet</a>
 
 ## 📷 Screenshot
-<img width="1435" height="807" alt="Screenshot (522)" src="https://github.com/user-attachments/assets/fadac799-dd16-4339-9eb5-dbb95ae7257b" />
+<a width="1435" height="807" alt="Screenshot (522)" src="https://github.com/user-attachments/assets/fadac799-dd16-4339-9eb5-dbb95ae7257b" />
 
 ## 🧾 Conclusion
 The Farmers Market Dashboard provides a detailed view of customer behavior, product demand, and vendor performance using interactive visuals. It enables market organizers and vendors to:
